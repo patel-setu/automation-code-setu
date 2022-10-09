@@ -1,0 +1,46 @@
+2022-10-08 16:10:152 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:934 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (937ff2f1372d9d85447a28e8f3865839)] -> xpath: //span[normalize-space()='Features']]
+2022-10-08 16:10:233 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (937ff2f1372d9d85447a28e8f3865839)] -> xpath: //h1[@id='features--benefits']]
+2022-10-08 16:10:893 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:948 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9265ec7fe9a736fdd3ea9f51ae4aafbe)] -> xpath: //span[normalize-space()='Features']]
+2022-10-08 16:10:418 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9265ec7fe9a736fdd3ea9f51ae4aafbe)] -> xpath: //h1[@id='features--benefits']]
+2022-10-08 16:10:479 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:301 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:90 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:669 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:575 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:708 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d0a18a0f81336d0fa8b98390fae08315)] -> xpath: //span[normalize-space()='Features']]
+2022-10-08 16:10:44 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d0a18a0f81336d0fa8b98390fae08315)] -> xpath: //h1[@id='features--benefits']]
+2022-10-08 16:10:670 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-08 16:10:913 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cc72097cd1d1952605e99a0738317988)] -> xpath: //span[normalize-space()='Features']]
+2022-10-08 16:10:290 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (cc72097cd1d1952605e99a0738317988)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 09:10:217 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 09:10:993 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 09:10:370 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:722 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:333 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:386 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:167 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (14624d1c3d76d00c1b6b40a031ca8c04)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 10:10:582 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (14624d1c3d76d00c1b6b40a031ca8c04)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 10:10:421 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:838 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (413073f7b9f2ff8dff90abf8ed023425)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 10:10:286 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (413073f7b9f2ff8dff90abf8ed023425)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 10:10:133 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:853 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e4914952bac5546feff53b12b0af6fcf)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 10:10:228 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e4914952bac5546feff53b12b0af6fcf)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 10:10:03 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:445 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (37330fed8793f5fcb2e8f8dc9e73f386)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 10:10:909 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (37330fed8793f5fcb2e8f8dc9e73f386)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 10:10:585 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:909 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:410 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b5eb43c0d4c6133f628d3a75bc4af5d0)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 10:10:723 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b5eb43c0d4c6133f628d3a75bc4af5d0)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 10:10:605 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 10:10:341 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (236e52947d40629bb84e0bdd7515b025)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 10:10:784 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (236e52947d40629bb84e0bdd7515b025)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 16:10:372 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 16:10:448 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1d59903f14c6717fc2381e0ed0bd29ca)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 16:10:788 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1d59903f14c6717fc2381e0ed0bd29ca)] -> xpath: //h1[@id='features--benefits']]
+2022-10-09 16:10:628 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-10-09 16:10:423 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e30147df7bf62546fa5911d01df8faad)] -> xpath: //span[normalize-space()='Features']]
+2022-10-09 16:10:869 INFO  HomePage :40 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e30147df7bf62546fa5911d01df8faad)] -> xpath: //h1[@id='features--benefits']]
